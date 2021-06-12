@@ -1,0 +1,35 @@
+Donation Cause
+This is Covid Relief Fund to help those in need. The raised money goes into arranging oxygen cylinders, masks, covid kits for the hospitals, food for the covid patients, etc.
+
+
+About Us
+The WeCare foundation is a 158 people
+ organization that is still growing and 
+dedicates itself to the humane task of 
+helping the needy. We strive to reach 
+out to every person possible and help them 
+with any resource they need. We raise money through donations from all around the world and acquire as many resources as possible.
+
+
+
+
+
+https://rzp.io/l/ChpA96l
+
+
+
+
+
+html code for razor pay button
+
+
+<div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_HJ6qRRgfGPZwxr/view" data-text="Donate" data-color="#0077B6" data-size="large">
+  <script>
+    (function(){
+      var d=document; var x=!d.getElementById('razorpay-embed-btn-js')
+      if(x){ var s=d.createElement('script'); s.defer=!0;s.id='razorpay-embed-btn-js';
+      s.src='https://cdn.razorpay.com/static/embed_btn/bundle.js';d.body.appendChild(s);} else{var rzp=window['__rzp__'];
+      rzp && rzp.init && rzp.init()}})();
+  </script>
+</div>
+    

@@ -1,0 +1,44 @@
+            html {
+                scroll-behavior: smooth;
+            }
+            
+            body {
+                width: 100%;
+                background-color: #003f88;
+                /* background-image: url("https://images.unsplash.com/photo-1445112098124-3e76dd67983c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=747&q=80"); */
+            }
+            
+            header {
+                background-image: url("https://images.unsplash.com/photo-1499946981954-e7f4b234d7fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80");
+                font-family: 'Lobster', cursive;
+                position: sticky;
+            }
+            
+            .name {
+                font-weight: 1000;
+                font-size: 40px;
+            }
+            
+            .nav_items {
+                font-size: large;
+            }
+            
+            .hero {
+                font-family: 'Amatic SC', cursive;
+                font-weight: 1000;
+            }
+            
+            .hero h1 {
+                font-family: 'Dancing Script', cursive;
+                font-size: 40px;
+                font-weight: 1000;
+                color: rgb(46, 21, 4);
+            }
+            
+            .home_para {
+                font-size: 25px;
+            }
+            
+            .foot {
+                background-color: rgb(2, 31, 68);
+            }
