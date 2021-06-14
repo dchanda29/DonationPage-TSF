@@ -41,6 +41,7 @@
                 
                 .hero h1 {
                     font-family: 'Dancing Script', cursive;
+                    line-height: 1.5em;
                     font-size: 40px;
                     font-weight: 1000;
                     color: #fff;
@@ -53,6 +54,7 @@
                 .home_para {
                     font-size: 25px;
                     font-weight: bolder;
+                    line-height: 1.2em;
                 }
                 
                 #donate {
@@ -67,11 +69,12 @@
                     font-weight: 1000;
                     height: 100%;
                     width: 100%;
-                    background-color: rgba(44, 23, 8, 0.801);
+                    background-color: rgba(88, 44, 12, 0.884);
                 }
                 
                 #about_head {
                     color: rgb(48, 25, 11);
+                    line-height: 1.5em;
                     font-family: 'Dancing Script', cursive;
                     font-weight: bolder;
                     font-size: 70px;
@@ -97,6 +100,7 @@
                 
                 .pic_head h1 {
                     margin-left: 5px;
+                    line-height: 1.5em;
                     color: rgb(48, 28, 16);
                     font-family: 'Dancing Script', cursive;
                     font-size: 50px;
@@ -105,6 +109,7 @@
                 
                 .pic_head p {
                     color: black;
+                    line-height: 1.2em;
                     font-size: 20px;
                     margin-top: 5px;
                     font-style: italic;
