@@ -8,14 +8,15 @@
         #home {
             height: 100%;
             width: 100%;
-            background-image: url("https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80");
+            background-color: rgba(78, 21, 9, 0.911);
+            /* background-image: url("https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"); */
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
         }
         
         header {
-            background-color: rgba(133, 85, 62, 0.808);
+            background-color: rgba(100, 43, 3, 0.658);
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
@@ -27,7 +28,7 @@
         .name {
             font-weight: 1000;
             font-size: 45px;
-            color: rgb(248, 248, 247);
+            color: white;
         }
         
         .nav_items {
@@ -79,7 +80,7 @@
             font-weight: 1000;
             height: 100%;
             width: 100%;
-            background-color: rgba(100, 43, 3, 0.918);
+            background-color: rgba(100, 43, 3, 0.658);
         }
         
         #about_head {
